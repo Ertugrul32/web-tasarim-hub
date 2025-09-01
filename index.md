@@ -42,6 +42,29 @@ Yerel pazarda doğru müşteriye ulaşmanın yolu; **şehir sorgularına** (örn
 > Tam şehir/ilçe listesi ve güncel bağlantılar için ana hub’ı ziyaret edin:  
 > https://web-tasarimci.com/web-tasarim-hizmet-bolgeleri/
 
+## Diğer Ana Hub’lar (web-tasarimci.com)
+
+- **Web Tasarım & SEO** → https://web-tasarimci.com/web-tasarim-seo/
+- **Web Tasarım Ana Sayfa** → https://web-tasarimci.com/web-tasarim/
+- **Türkiye İlçeler (Kategori)** → https://web-tasarimci.com/kategori/turkiye-ilceler/
+- **Web Tasarım (Kategori)** → https://web-tasarimci.com/kategori/web-tasarim/
+- **E-Ticaret (Kategori)** → https://web-tasarimci.com/kategori/e-ticaret/
+- **Grafik & Logo Tasarım (Kategori)** → https://web-tasarimci.com/kategori/grafik-logo-tasarim/
+- **Personel Kayıt & Sözleşme Yazılımı** → https://web-tasarimci.com/personel-kayit-ve-sozlesme-yazilimi/
+- **Mobil Uygulama Geliştirme (Kategori)** → https://web-tasarimci.com/kategori/mobil-uygulama-gelistirme/
+- **Reklam & Dijital Pazarlama (Kategori)** → https://web-tasarimci.com/kategori/reklam-dijital-pazarlama/
+- **Kurumsal Web Sitesi Tasarımları** → https://web-tasarimci.com/kurumsal-web-sitesi-tasarimlari/
+- **E-Ticaret Web Site Tasarımları** → https://web-tasarimci.com/e-ticaret-web-site-tasarimlari/
+- **Sağlık Sektörü Web Sitesi Tasarımları** → https://web-tasarimci.com/saglik-sektoru-web-sitesi-tasarimlari/
+- **Sigorta Web Sitesi Tasarımları** → https://web-tasarimci.com/sigorta-web-sitesi-tasarimlari/
+- **Takı Web Sitesi Tasarımları** → https://web-tasarimci.com/taki-web-sitesi-tasarimlari/
+- **Restoran Web Sitesi Tasarımları** → https://web-tasarimci.com/restoran-web-sitesi-tasarimlari/
+- **B2B Yazılımı** → https://web-tasarimci.com/b2b-yazilimi/
+- **Toptancı Yazılımı** → https://web-tasarimci.com/toptanci-yazilimi/
+- **Envanter Kontrol Yazılımı** → https://web-tasarimci.com/envanter-kontrol-yazilimi/
+- **İlan Sitesi Yazılımları** → https://web-tasarimci.com/ilan-sitesi-yazilimlari/
+- **B2B/B2C Pazaryeri Yazılımları** → https://web-tasarimci.com/b2b-b2c-pazaryeri-yazilimlari/
+
 ## SEO Stratejisi: Nasıl İlerlemeli?
 
 ### 1) Bilgi mimarisi (IA)

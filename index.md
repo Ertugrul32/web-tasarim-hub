@@ -1,25 +1,23 @@
 ---
-title: Türkiye Genelinde Web Tasarım Hizmet Bölgeleri – Şehir Bazlı Kaynak Merkezi
-description: 81 il ve pek çok ilçe için web tasarım, kurumsal site, e-ticaret, SEO ve performans odaklı rehber. Ana hub: web-tasarimci.com/web-tasarim-hizmet-bolgeleri
+title: "Türkiye Genelinde Web Tasarım Hizmet Bölgeleri – Şehir Bazlı Kaynak Merkezi"
+description: "81 il ve pek çok ilçe için web tasarımı, kurumsal site, e-ticaret, SEO ve performans odaklı rehber. Ana hub: https://web-tasarimci.com/web-tasarim-hizmet-bolgeleri/"
 ---
-
-<link rel="canonical" href="https://web-tasarimci.com/web-tasarim-hizmet-bolgeleri/" />
 
 # Türkiye Genelinde Web Tasarım Hizmet Bölgeleri (Hub)
 
 Yerel aramalarda görünür olmak isteyen işletmeler için **şehir bazlı web tasarım kaynaklarını** tek bir merkezde topladık. Bu hub, web sitesi tasarımı, kurumsal web standartları, e-ticaret, arama motoru optimizasyonu (SEO), sayfa hızı, mobil uyumluluk ve UX gibi ana başlıklarda **uygulanabilir öneriler** sunar; her şehir/ilçe özelinde hazırlanmış sayfalara **doğrudan bağlantılar** içerir.
 
-> **Ana Hub (orijinal kaynak):**  
-> 👉 https://web-tasarimci.com/web-tasarim-hizmet-bolgeleri/
+**Ana Hub (orijinal kaynak):**  
+👉 https://web-tasarimci.com/web-tasarim-hizmet-bolgeleri/
 
 Yerel pazarda doğru müşteriye ulaşmanın yolu; **şehir sorgularına** (örn. *“Ankara web tasarım”*, *“İstanbul web tasarım”*) yanıt verebilen, **hızlı**, **mobil uyumlu** ve **içerik açısından zengin** sayfalara sahip olmaktır. Aşağıdaki içerik; hem işletmelerin teknik/stratejik gereksinimlerini çerçeveler, hem de şehir sayfalarına yönlendirerek pratik bir başlangıç sunar.
 
 ## Neden şehir bazlı açılış sayfaları?
 
-- **Arama niyeti (Search Intent):** Kullanıcılar çoğunlukla şehir adı ile arar (örn. “İzmir web tasarım”). Bu niyete özel sayfalar, **daha yüksek tıklama oranı (CTR)** ve **daha iyi dönüşüm** sağlar.
+- **Arama niyeti (Search Intent):** Kullanıcılar çoğunlukla şehir adı ile arar (örn. “İzmir web tasarım”). Bu niyete özel sayfalar, **daha yüksek CTR** ve **daha iyi dönüşüm** sağlar.
 - **İçerik uyumu:** Şehir sayfalarında hedef kitleye uygun **örnek işler**, **teslimat/kurulum bölgeleri**, **yerel referanslar**, **lokal fiyat aralıkları** ve **SSS** bulunur. Bu öğeler **E-E-A-T** sinyallerini güçlendirir.
 - **Teknik performans:** Hızlı açılan, **Core Web Vitals**’ı geçen, hafif ve iyi önbelleklenen sayfalar **kullanıcı deneyimini** ve **sıralamayı** iyileştirir.
-- **Dahili bağlantı (Internal Linking):** Şehir sayfaları, blog/rehber içeriklerine ve ana hizmet sayfalarına bağlanır; **keşif (crawl)** ve **PageRank akışı** daha verimli olur.
+- **Dahili bağlantı (Internal Linking):** Şehir sayfaları, blog/rehber içeriklerine ve ana hizmet sayfalarına bağlanır; **keşif (crawl)** ve **otorite akışı** daha verimli olur.
 
 ## Başlangıç kontrol listesi
 
@@ -53,7 +51,7 @@ Yerel pazarda doğru müşteriye ulaşmanın yolu; **şehir sorgularına** (örn
 Sadece şehir adı değişen kopya metinler **doorway** riskini artırır. Her sayfada **benzersiz** öğeler (örnek proje, yerel SSS, teslimat koşulları, yerel sektörel içgörüler) kullanın.
 
 ### 3) Performans ve CWV
-- Görselleri `webp/avif`; boyut < 200KB hedefleyin.  
+- Görselleri `webp/avif`; boyut < 200 KB hedefleyin.  
 - `preconnect`, `dns-prefetch`, kritik CSS ve lazy-load stratejileri uygulayın.  
 - JS bağımlılıklarını azaltın; statik HTML + hafif interaktivite idealdir.
 
@@ -69,35 +67,37 @@ Sadece şehir adı değişen kopya metinler **doorway** riskini artırır. Her s
 ## SSS (Kısa)
 
 **GitHub Pages ile SEO değerim olur mu?**  
-Evet. Başlık, meta, içerik, dahili bağlantı, şema ve sitemap kontrolü sizde olduğu için **keşif ve görünürlük** desteklenir. Yine de **asıl otoriteyi** kendi alan adınızda (web-tasarimci.com) toplamanızı öneririz.
+Evet. Başlık, içerik, dahili bağlantı, şema ve (isterseniz) sitemap kontrolü sizde olduğu için **keşif ve görünürlük** desteklenir. Yine de **asıl otoriteyi** kendi alan adınızda (web-tasarimci.com) toplamanızı öneririz.
 
 **Gist mi Pages mi?**  
-Gist hızlıdır ama sınırlıdır. **Pages** ise başlık/meta/sitemap/şema/IA kontrolü verir. Kalıcı strateji için Pages daha uygundur.
+Gist hızlıdır ama sınırlıdır. **Pages** ise başlık/IA/şema/sitemap kontrolü verir. Kalıcı strateji için Pages daha uygundur.
 
 **Tüm linkleri tek sayfaya mı koymalıyım?**  
 Hayır. Bölgeler/şehirler şeklinde **parçalı IA** daha iyi kullanıcı deneyimi ve tarama verimliliği sağlar.
 
 ---
 
-> **Kaynak Merkez (Orijinal Hub):**  
-> https://web-tasarimci.com/web-tasarim-hizmet-bolgeleri/
+**Kaynak Merkez (Orijinal Hub):**  
+https://web-tasarimci.com/web-tasarim-hizmet-bolgeleri/
 
+{% raw %}
 <script type="application/ld+json">
 {
- "@context": "https://schema.org",
- "@type": "ItemList",
- "name": "Şehir Bazlı Web Tasarım Kaynakları",
- "itemListElement": [
-  {"@type":"ListItem","position":1,"url":"https://web-tasarimci.com/ankara-web-tasarim/"},
-  {"@type":"ListItem","position":2,"url":"https://web-tasarimci.com/istanbul-web-tasarim/"},
-  {"@type":"ListItem","position":3,"url":"https://web-tasarimci.com/izmir-web-tasarim/"},
-  {"@type":"ListItem","position":4,"url":"https://web-tasarimci.com/bursa-web-tasarim/"},
-  {"@type":"ListItem","position":5,"url":"https://web-tasarimci.com/kocaeli-web-tasarim/"},
-  {"@type":"ListItem","position":6,"url":"https://web-tasarimci.com/antalya-web-tasarim/"},
-  {"@type":"ListItem","position":7,"url":"https://web-tasarimci.com/konya-web-tasarim-2/"},
-  {"@type":"ListItem","position":8,"url":"https://web-tasarimci.com/izmir-web-tasarim-firmalari/"},
-  {"@type":"ListItem","position":9,"url":"https://web-tasarimci.com/istanbul-web-tasarim-firmalari/"},
-  {"@type":"ListItem","position":10,"url":"https://web-tasarimci.com/ankara-web-tasarim-firmalari/"}
- ]
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "Şehir Bazlı Web Tasarım Kaynakları",
+  "itemListElement": [
+    {"@type":"ListItem","position":1,"url":"https://web-tasarimci.com/ankara-web-tasarim/"},
+    {"@type":"ListItem","position":2,"url":"https://web-tasarimci.com/istanbul-web-tasarim/"},
+    {"@type":"ListItem","position":3,"url":"https://web-tasarimci.com/izmir-web-tasarim/"},
+    {"@type":"ListItem","position":4,"url":"https://web-tasarimci.com/bursa-web-tasarim/"},
+    {"@type":"ListItem","position":5,"url":"https://web-tasarimci.com/kocaeli-web-tasarim/"},
+    {"@type":"ListItem","position":6,"url":"https://web-tasarimci.com/antalya-web-tasarim/"},
+    {"@type":"ListItem","position":7,"url":"https://web-tasarimci.com/konya-web-tasarim-2/"},
+    {"@type":"ListItem","position":8,"url":"https://web-tasarimci.com/izmir-web-tasarim-firmalari/"},
+    {"@type":"ListItem","position":9,"url":"https://web-tasarimci.com/istanbul-web-tasarim-firmalari/"},
+    {"@type":"ListItem","position":10,"url":"https://web-tasarimci.com/ankara-web-tasarim-firmalari/"}
+  ]
 }
 </script>
+{% endraw %}

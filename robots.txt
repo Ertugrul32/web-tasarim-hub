@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+# Bu robots sadece GitHub Pages alanın için geçerlidir:
+# https://ertugrul32.github.io/web-tasarim-hub/
+Sitemap: https://ertugrul32.github.io/web-tasarim-hub/sitemap.xml
